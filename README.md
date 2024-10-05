@@ -5,6 +5,7 @@ Project Overview
 This project aims to analyze employee attrition using a dataset of HR data. The analysis focuses on identifying key factors contributing to employee attrition, such as age, job satisfaction, and income, using hypothesis testing. The project also includes clustering to better understand employee groups based on these attributes.
 
 Table of Contents
+
 Introduction
 
 Dataset
@@ -16,29 +17,42 @@ Analysis
 Results
 
 Introduction
+
 Employee attrition is a critical challenge for many companies. This project seeks to investigate various factors that influence attrition, such as:
 
 Age
 Monthly income
+
 Job satisfaction
+
 Department differences
+
 Hypothesis testing was used to determine whether specific features had a significant impact on employee turnover.
 
 Dataset
 The dataset includes key employee information such as:
 
 Age
+
 Monthly income (log-transformed)
+
 Job satisfaction score
+
 Attrition status
-Source: (Add the source or mention if the data is simulated)
+
 
 Technologies Used
+
 Python (pandas, numpy, matplotlib, seaborn, scikit-learn)
+
 Hypothesis testing (t-tests, ANOVA, chi-square)
+
 Clustering (KMeans)
+
 Jupyter Notebooks
+
 Analysis
+
 The project involved the following steps:
 
 Data preprocessing:

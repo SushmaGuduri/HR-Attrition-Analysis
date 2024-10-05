@@ -43,11 +43,11 @@ Clustering (KMeans)
 
 Jupyter Notebooks
 
-Analysis
+## Analysis
 
 The project involved the following steps:
 
-##Data preprocessing:
+## Data preprocessing:
 
 cleaning and transformation of variables.
 

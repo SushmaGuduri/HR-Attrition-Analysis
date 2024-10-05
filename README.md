@@ -10,65 +10,65 @@ This project aims to analyze employee attrition using a dataset of HR data. The 
 
 Dataset
 
--Technologies Used
+- Technologies Used
 
--Analysis
+- Analysis
 
--Results
+- Results
 
 ## Introduction
 
 Employee attrition is a critical challenge for many companies. This project seeks to investigate various factors that influence attrition, such as:
--Age
--Monthly income
--Job satisfaction
--Department differences
--Hypothesis testing was used to determine whether specific features had a significant impact on employee turnover.
+- Age
+- Monthly income
+- Job satisfaction
+- Department differences
+- Hypothesis testing was used to determine whether specific features had a significant impact on employee turnover.
 
 ## Dataset
 The dataset includes key employee information such as:
 
--Age
--Monthly income (log-transformed)
--Job satisfaction score
--Attrition status
+- Age
+- Monthly income (log-transformed)
+- Job satisfaction score
+- Attrition status
 
 ## Technologies Used
 
-Python (pandas, numpy, matplotlib, seaborn, scikit-learn)
+- Python (pandas, numpy, matplotlib, seaborn, scikit-learn)
 
-Hypothesis testing (t-tests, ANOVA, chi-square)
+- Hypothesis testing (t-tests, ANOVA, chi-square)
 
-Clustering (KMeans)
+- Clustering (KMeans)
 
-Jupyter Notebooks
+- Jupyter Notebooks
 
 ## Analysis
 
-The project involved the following steps:
+- The project involved the following steps:
 
 ## Data preprocessing:
 
-cleaning and transformation of variables.
+- cleaning and transformation of variables.
 
 ## Hypothesis testing:
 
-Testing the difference in attrition rates across departments.
+- Testing the difference in attrition rates across departments.
 
-Testing if income or job satisfaction significantly affects attrition.
+- Testing if income or job satisfaction significantly affects attrition.
 
 ## Clustering:
 
-Applying KMeans clustering to group employees by age, income, and job satisfaction.
+- Applying KMeans clustering to group employees by age, income, and job satisfaction.
 
-Visualization of key findings using Python libraries.
+- Visualization of key findings using Python libraries.
 
 ## Results
 
-**The main findings of this analysis include:
+- The main findings of this analysis include:
 
-Statistically significant relationships between attrition and job satisfaction.
+- Statistically significant relationships between attrition and job satisfaction.
 
-No significant difference in attrition rates between departments.
+- No significant difference in attrition rates between departments.
 
-Cluster analysis revealed groups of employees based on their income and job satisfaction levels.
+- Cluster analysis revealed groups of employees based on their income and job satisfaction levels.

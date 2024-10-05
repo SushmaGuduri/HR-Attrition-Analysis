@@ -25,19 +25,15 @@ Employee attrition is a critical challenge for many companies. This project seek
 -Department differences
 -Hypothesis testing was used to determine whether specific features had a significant impact on employee turnover.
 
-Dataset
+## Dataset
 The dataset includes key employee information such as:
 
-Age
+-Age
+-Monthly income (log-transformed)
+-Job satisfaction score
+-Attrition status
 
-Monthly income (log-transformed)
-
-Job satisfaction score
-
-Attrition status
-
-
-Technologies Used
+## Technologies Used
 
 Python (pandas, numpy, matplotlib, seaborn, scikit-learn)
 
@@ -51,23 +47,23 @@ Analysis
 
 The project involved the following steps:
 
-Data preprocessing:
+##Data preprocessing:
 
 cleaning and transformation of variables.
 
-Hypothesis testing:
+## Hypothesis testing:
 
 Testing the difference in attrition rates across departments.
 
 Testing if income or job satisfaction significantly affects attrition.
 
-Clustering:
+## Clustering:
 
 Applying KMeans clustering to group employees by age, income, and job satisfaction.
 
 Visualization of key findings using Python libraries.
 
-Results
+## Results
 
 The main findings of this analysis include:
 

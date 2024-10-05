@@ -41,18 +41,28 @@ Jupyter Notebooks
 Analysis
 The project involved the following steps:
 
-Data preprocessing: cleaning and transformation of variables.
+Data preprocessing:
+
+cleaning and transformation of variables.
+
 Hypothesis testing:
+
 Testing the difference in attrition rates across departments.
+
 Testing if income or job satisfaction significantly affects attrition.
 
 Clustering:
+
 Applying KMeans clustering to group employees by age, income, and job satisfaction.
+
 Visualization of key findings using Python libraries.
 
 Results
+
 The main findings of this analysis include:
 
 Statistically significant relationships between attrition and job satisfaction.
+
 No significant difference in attrition rates between departments.
+
 Cluster analysis revealed groups of employees based on their income and job satisfaction levels.

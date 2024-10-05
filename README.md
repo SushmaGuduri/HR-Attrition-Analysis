@@ -1,33 +1,29 @@
-HR Attrition Analysis with Hypothesis Testing
+# -HR Attrition Analysis with Hypothesis Testing
 
-Project Overview
+## Project Overview
 
 This project aims to analyze employee attrition using a dataset of HR data. The analysis focuses on identifying key factors contributing to employee attrition, such as age, job satisfaction, and income, using hypothesis testing. The project also includes clustering to better understand employee groups based on these attributes.
 
-Table of Contents
+## Table of Contents
 
-Introduction
+-Introduction
 
 Dataset
 
-Technologies Used
+-Technologies Used
 
-Analysis
+-Analysis
 
-Results
+-Results
 
-Introduction
+## Introduction
 
 Employee attrition is a critical challenge for many companies. This project seeks to investigate various factors that influence attrition, such as:
-
-Age
-Monthly income
-
-Job satisfaction
-
-Department differences
-
-Hypothesis testing was used to determine whether specific features had a significant impact on employee turnover.
+-Age
+-Monthly income
+-Job satisfaction
+-Department differences
+-Hypothesis testing was used to determine whether specific features had a significant impact on employee turnover.
 
 Dataset
 The dataset includes key employee information such as:

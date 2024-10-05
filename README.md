@@ -65,7 +65,7 @@ Visualization of key findings using Python libraries.
 
 ## Results
 
-The main findings of this analysis include:
+**The main findings of this analysis include:
 
 Statistically significant relationships between attrition and job satisfaction.
 
